@@ -11,7 +11,7 @@ public class English implements LanguageInterface {
     @Override
     public void init()
     {
-        mappings.put("antirecall.message.deleted", "deleted");
+        mappings.put("antirecall.message.deleted", "𝕕𝕖𝕝𝕖𝕥𝕖𝕕");
     }
 
     @Override
