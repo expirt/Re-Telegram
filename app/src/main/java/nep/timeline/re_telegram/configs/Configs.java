@@ -6,8 +6,8 @@ public class Configs {
     private static String antiRecallText = "";
     private static boolean antiRecallTextColorful = true;
     private static int antiRecallTextRed = 255;
-    private static int antiRecallTextGreen = 0;
-    private static int antiRecallTextBlue = 0;
+    private static int antiRecallTextGreen = 255;
+    private static int antiRecallTextBlue = 255;
     private static boolean noSponsoredMessages = true;
     private static boolean prohibitChannelSwitching = true;
     private static boolean allowMoveAllChatFolder = true;
